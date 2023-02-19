@@ -7,11 +7,11 @@ import pygame
 pygame.init()
 pygame.mixer.init()
 
-snare = pygame.mixer.Sound('snare.mp3')
-hihat = pygame.mixer.Sound('hihat.mp3')
-crash = pygame.mixer.Sound('crash.mp3')
-splash = pygame.mixer.Sound('splash.mp3')
-tom = pygame.mixer.Sound('tom.mp3')
+snare = pygame.mixer.Sound('sound_files/snare.mp3')
+hihat = pygame.mixer.Sound('sound_files/hihat.mp3')
+crash = pygame.mixer.Sound('sound_files/crash.mp3')
+splash = pygame.mixer.Sound('sound_files/splash.mp3')
+tom = pygame.mixer.Sound('sound_files/tom.mp3')
 
 arduino = serial.Serial('COM6', 115200, timeout=.1)
 
