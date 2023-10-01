@@ -23,3 +23,5 @@ More sounds, and more attachments! Additional controls on the sticks or horizont
 ## Contributors
 - Isaac Muscat
 - Christian Canelea
+- Sebastian Sergnese
+- James Zhao
