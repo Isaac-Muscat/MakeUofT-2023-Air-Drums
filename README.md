@@ -19,3 +19,7 @@ Some learned how to code in C with Arduino, and learned how to utilize external 
 
 ## What's next for Drum-less Kit-less Drumkit
 More sounds, and more attachments! Additional controls on the sticks or horizontal position detection to change sounds would significantly add to the experience. Sensors to detect feet movement could also simulate pedals for even more sounds.
+
+## Contributors
+- Isaac Muscat
+- Christian Canelea
